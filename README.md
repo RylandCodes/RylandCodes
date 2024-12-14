@@ -5,7 +5,7 @@
 </h1>
 
 <h2>About Me! 😄</h2>
-<p>I am currently developing apps with Xcode! I Work using various Programming Languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
+<p>I am currently developing apps with Xcode! I work using various programming languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
 <p>I am learning GDScript 🕹️ and Premiere Pro 🎞️. I am very passionate about coding.  
 🎓 I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
 i aspire to become a Software Engineer 🛠️ in the future!</p>
