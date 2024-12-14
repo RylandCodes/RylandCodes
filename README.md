@@ -10,6 +10,7 @@
 🎓 Also I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
 I aspire to become a Software Engineer 🛠️ in the future!</p>
 <p>Robotics is also another area of interest for me.</p>
+<p>Check out my repositeres! Feel free to download and copy it!</p>
 
 <h2>Cool YouTube Videos 🎥</h2>
 <ul>
