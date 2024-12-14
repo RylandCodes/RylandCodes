@@ -20,7 +20,7 @@ i aspire to become a Software Engineer 🛠️ in the future!</p>
   <li><a href="https://www.youtube.com/playlist?list=PLSFGulg_fKF-tkxcy6dgOHD3OsDjlkzFm">Cursed Code Series (Funny 😄)</a></li>
   <li><a href="https://www.youtube.com/shorts/RROjncxRX48">Spinning Donut 🍩 (Copy & Paste 📋)</a></li>
 </ul>
-<p>🗒️ NOTE: I am not very good at edting ✂️, so the videos don’t show complex code. They are super easy (most programmers would already know this). 😅</p>
+<p>🗒️ NOTE: I am still learning video editing ✂️, so the videos don’t show complex code. They are super easy (most programmers would already know this). 😅 They will be getting better</p>
 
 <h2>My Projects ⭐️</h2>
 <ul>
