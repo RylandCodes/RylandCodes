@@ -5,12 +5,11 @@
 </h1>
 
 <h2>About Me! 😄</h2>
-<p>I am currently developing apps with Xcode! I work using various programming languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
-<p>I am learning GDScript 🕹️ and Premiere Pro 🎞️. I am very passionate about coding.  
+<p>I am currently developing apps on Xcode and I work using various programming languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
+<p>Being passionate with coding and video editing, I am learning GDScript 🕹️ and Premiere Pro 🎞️ and I am very passionate about coding.  
 🎓 I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
-i aspire to become a Software Engineer 🛠️ in the future!</p>
-<p>I also study robotics so I am continuing to learn C++ and Python.</p>
-<p>I am using Godot because i prefer Godot over Unity and Unreal.</p>
+I aspire to become a Software Engineer 🛠️ in the future!</p>
+<p>SRobotics is also another area of interest for me.</p>
 
 <h2>Cool YouTube Videos 🎥</h2>
 <ul>
@@ -20,7 +19,7 @@ i aspire to become a Software Engineer 🛠️ in the future!</p>
   <li><a href="https://www.youtube.com/playlist?list=PLSFGulg_fKF-tkxcy6dgOHD3OsDjlkzFm">Cursed Code Series (Funny 😄)</a></li>
   <li><a href="https://www.youtube.com/shorts/RROjncxRX48">Spinning Donut 🍩 (Copy & Paste 📋)</a></li>
 </ul>
-<p>🗒️ NOTE: I am still learning video editing ✂️, so the videos don’t show complex code. They are super easy (most programmers would already know this). 😅 They will be getting better</p>
+<p>🗒️ NOTE: Since I am still learning video editing ✂️, so the videos don’t show complex code. They are super easy (most programmers would already know this). 😅 They will be getting better</p>
 
 <h2>My Projects ⭐️</h2>
 <ul>
