@@ -38,7 +38,7 @@ I aspire to become a Software Engineer 🛠️ in the future!</p>
   <li>Unit Converter (Python 🐍)</li>
   <li>Complete Portfolio (HTML/CSS/JS 🌐)</li>
 </ul>
-<p>Just some basic ones. Advanced ones are in production! I only stated down something like 5% of the projects.</p>
+<p>Just some basic ones. Advanced ones are in production! I only stated down something like 5% of the projects. I am slowly putting them into repositories!</p>
 
 <h2>What I Am Going to Do Soon...</h2>
 <ul>
