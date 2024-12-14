@@ -17,24 +17,11 @@
   <li><a href="https://www.youtube.com/playlist?list=PLSFGulg_fKF-tkxcy6dgOHD3OsDjlkzFm">Cursed Code Series (Funny🤣)</a></li>
   <li><a href="https://www.youtube.com/shorts/RROjncxRX48">Spinning Donut 🍩 (Copy and Paste)</a></li>
 </ul
-<p>🗒️NOTE: I am not very good at editing so the videos dont show complex code so it is very easy (Most Programmers would already know)</p>
+<p>🗒️ NOTE: I am not very good at editing so the videos dont show complex code so it is very easy (Most Programmers would already know)</p>
 
-<h2>🤳 Connect with Me:</h2>
-<p>
-  <a href="https://youtube.com/channel/UCYd4Wq-cpxtikUXLupRtyDw?sub_confirmation=1">
-    <img align="left" alt="Ryland | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>
-  <a href="https://twitter.com">
-    <img align="left" alt="Ryland | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://linkedin.com">
-    <img align="left" alt="Ryland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://instagram.com">
-    <img align="left" alt="Ryland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-</p>
+<h2>My Other Accounts 💪🏻</h2>
 <br/>
 <p>
   Join my <a href="https://www.discord.gg/JSCXZDTmsF">Discord Community</a> for more updates and discussions!
+  Watch My <a href="https://youtube.com/channel/UCYd4Wq-cpxtikUXLupRtyDw?sub_confirmation=1">Youtube Channel</a>!
 </p>
