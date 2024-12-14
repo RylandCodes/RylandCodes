@@ -10,7 +10,7 @@
 🎓 I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
 i aspire to become a Software Engineer 🛠️ in the future!</p>
 <p>I also study robotics so I am continuing to learn C++ and Python.</p>
-<p>I am using Godot because Unity Destroyed itself.</p>
+<p>I am using Godot because i prefer Godot over Unity and Unreal.</p>
 
 <h2>Cool YouTube Videos 🎥</h2>
 <ul>
