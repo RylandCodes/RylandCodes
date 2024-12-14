@@ -44,7 +44,7 @@ i aspire to become a Software Engineer 🛠️ in the future!</p>
 <ul>
   <li>Push my projects onto GitHub</li>
   <li>Grow my YouTube Channel 🎥</li>
-  <li>Contribute to some Projects!</li>
+  <li>Contribute to more programming projects!</li>
   <li>Learn more languages</li>
   <li>Pursue my Programming Passion! ❤️</li>
   <li>Get into a good school 🏫!</li>
