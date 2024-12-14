@@ -6,10 +6,10 @@
 
 <h2>About Me! 😄</h2>
 <p>I am currently working on apps with Xcode! I work with Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
-<br/>
 <p>I am learning GDScript 🕹️ and Premiere Pro 🎞️. I am very passionate about coding.  
-🎓 I am studying Computer Science 🖥️, and I would love to contribute to open-source projects in the future.  
+🎓 I am studying Computer Science 🖥️, and I would love to contribute to open-source projects.  
 I aspire to become a Software Engineer 🛠️ in the future!</p>
+<p>I also study Robotics so i am learning C++ and Python.</p>
 
 <h2>Cool YouTube Videos 🎥</h2>
 <ul>
@@ -20,6 +20,23 @@ I aspire to become a Software Engineer 🛠️ in the future!</p>
   <li><a href="https://www.youtube.com/shorts/RROjncxRX48">Spinning Donut 🍩 (Copy & Paste 📋)</a></li>
 </ul>
 <p>🗒️ NOTE: I am not very good at editing ✂️, so the videos don’t show complex code. They are super easy (most programmers would already know this). 😅</p>
+
+<h2>My Projects ⭐️</h2>
+<p>Expense Manager (PY🐍)</p>
+<p>Flappy Bird App (Godot)</p>
+<p>Chrome Dino App (PY🐍)</p>
+<p>Pong App (PY🐍)</p>
+<p>3d Shooter (Godot)</p>
+<p>Website Teaching People Cyber Security (HTML/CSS/JS🌐)</p>
+<p>3d Shooter (Godot)</p>
+<p>tic tac toe (PY🐍)</p>
+<p>PassWord Generator (PY🐍)</p>
+<p>PassWord Manager (PY🐍)</p>
+<p>Encrypter (PY🐍)</p>
+<p>Alchemy Game (PY🐍)</p>
+<p>Unit Converter (PY🐍)</p>
+
+
 
 <h2>My Other Accounts 💪🏻</h2>
 <br/>
