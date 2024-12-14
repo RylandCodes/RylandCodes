@@ -43,10 +43,11 @@ i aspire to become a Software Engineer 🛠️ in the future!</p>
 <h2>What I Am Going to Do Soon...</h2>
 <ul>
   <li>Push my projects onto GitHub</li>
-  <li>Grow my YouTube Channel</li>
+  <li>Grow my YouTube Channel 🎥</li>
   <li>Contribute to some Projects!</li>
   <li>Learn more languages</li>
-  <li>Pursue my Programming Passion!</li>
+  <li>Pursue my Programming Passion! ❤️</li>
+  <li>Get into a good school 🏫!</li>
 </ul>
 
 <h2>My Other Accounts 💪🏻</h2>
