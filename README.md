@@ -6,7 +6,7 @@
 
 <h2>About Me! 😄</h2>
 <p>I am currently developing apps on Xcode and I work using various programming languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
-<p>Being passionate with coding and video editing, I am learning GDScript 🕹️ and Premiere Pro 🎞️.  
+<p>Being passionate about coding and video editing, I am learning GDScript 🕹️ and Premiere Pro 🎞️.  
 🎓 Also I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
 I aspire to become a Software Engineer 🛠️ in the future!</p>
 <p>Robotics is also another area of interest for me.</p>
