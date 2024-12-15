@@ -1,10 +1,16 @@
+<style>
+  .yellow {
+    color: yellow;
+  }
+</style>
+
 <h1>Howdy! I'm Ryland! 👋<br/>
   <a href="https://github.com/RylandCodes">👨‍💻 Programmer</a>, 
   <a href="https://github.com/RylandCodes">🚀 Coding Enthusiast</a>, 
   <a href="https://youtube.com/channel/UCYd4Wq-cpxtikUXLupRtyDw?sub_confirmation=1">🎥 YouTuber</a>
 </h1>
 
-<h2 style="color: yellow;">About Me! 😄</h2>
+<h2 class="yellow">About Me! 😄</h2>
 <p>I am currently developing apps on Xcode and I work using various programming languages such as Python 🐍, C++ 💻, Godot 🎮, HTML/CSS/JS 🌐.</p>
 <p>Being passionate about coding and video editing, I am learning GDScript 🕹️ and Premiere Pro 🎞️.  
 🎓 Also I am studying Computer Science 🖥️, and I would love to contribute to open source projects!  
